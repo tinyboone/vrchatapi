@@ -35,9 +35,8 @@ The bot communicates with VRChat’s API, updating user statuses and fetching de
 
 Below is an example of what the bot's embed messages look like:
 
-![Embed Preview]()
+![Embed Preview](https://github.com/tinyboone/vrchatapi/blob/main/image.png)
 
-*(Replace `embed-preview.png` with the actual image file showcasing the embed UI.)*
 
 ## Code Example
 
